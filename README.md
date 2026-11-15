@@ -46,7 +46,7 @@ The application connects to `student_db` using the `postgres` user on `localhost
 
 ## Application Functions
 
-The application provides a menu with four operations:
+The application provides a menu with 4 operations:
 
 1. **getAllStudents()** — Retrieves and displays all student records.
 2. **addStudent()** — Inserts a new student record.
