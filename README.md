@@ -4,7 +4,7 @@ A Python application that connects to PostgreSQL to perform CRUD operations on s
 
 ## Demonstration Video
 
-[Watch the demonstration]()
+
 
 The video demonstrates the database setup, all four CRUD functions, and their results in pgAdmin.
 
